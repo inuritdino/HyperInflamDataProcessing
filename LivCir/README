@@ -1,0 +1,13 @@
+Paper: Ramachandran et al.
+Resolving the fibrotic niche of human liver
+cirrhosis at single-cell level, Nature 575, 512–518 (2019)
+
+10X data available from GEO: GSE136103
+
+The data analyses seem to be very complicated to repeat, especially
+having different Seurat versions, filtering of blood-cell contamination,
+and different possible scenarios not retrievable from the original description.
+
+Fortunately, Prakash Ramachandran (the 1st author) responded with a link to 
+the fully processed data: https://doi.org/10.7488/ds/2637
+
