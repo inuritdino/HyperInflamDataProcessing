@@ -1,0 +1,18 @@
+Paper:
+K. Buchheit et al. IL5Ra marks nasal polyp IgG4- and IgE-expressing cells in aspirin-exacerbated
+respiratory disease, J Allergy Clin Imm, 145(6):1574, 2020.
+
+Online: https://www.jacionline.org/article/S0091-6749(20)30345-6/pdf
+
+The data is found elsewhere: see Methods, scRNA-seq analysis (ref. 34)
+
+Ref. 34: 
+Ordovas-Montanes J et al. Allergic inflammatory memory in human respiratory
+epithelial progenitor cells. Nature 2018;560:649-54
+
+Following the latter Data-availability guidelines, the final pre-processed data
+were collected from:
+http://shaleklab.com/20180822_polypall_cleaned_rawdata-txt/
+(http://shaleklab.com/wp-content/uploads/2018/08/20180822_PolypAll_cleaned_rawdata.txt.zip)
+Annotation:
+http://shaleklab.com/wp-content/uploads/2018/06/20180822_PolypAll_cleaned_metadata.txt
