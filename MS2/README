@@ -1,0 +1,8 @@
+Paper: J\"akel S. et al. Altered human oligodendrocyte heterogeneity in 
+multiple sclerosis, Nature, 566: 543.
+
+Fully annotated data available at GEO: GSE118257
+
+The data is ready for use. Lesion annotation has some degrees.
+Need to find out what Lesion means and whether Condition Ctrl/MS
+could be safely used instead.
