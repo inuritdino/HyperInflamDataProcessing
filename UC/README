@@ -1,0 +1,8 @@
+Paper: 
+Boland et al., Heterogeneity and clonal relationships of adaptive
+immune cells in ulcerative colitis revealed by
+single-cell analyses, Sci Imm 5, eabb4432 (2020) 
+
+Raw data are on GEO: GSE125527
+
+See process.R for detailed analysis, clustering and annotation.
