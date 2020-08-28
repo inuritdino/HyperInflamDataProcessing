@@ -1,0 +1,12 @@
+Paper: https://www.pnas.org/content/116/48/24100
+Voigt et al. Single-cell transcriptomics of the human retinal pigment epithelium and 
+choroid in health and macular degeneration. PNAS 2019;116(48):24100-24107.
+PMID: 31712411
+
+Annotated data available on GEO: GSE135922
+
+Donors 1-2 Healthy
+Donor 3 AMD
+
+Donors 4(AMD),5,6,7 are recruited additionally to enrich endothelial cells.
+However, explicitly cluster information was not found, except for endothelial cells.
