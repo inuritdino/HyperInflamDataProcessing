@@ -1,0 +1,14 @@
+Paper:
+
+Jerome C. Martin et al. Single-Cell Analysis of Crohn’s Disease Lesions Identifies a Pathogenic Cellular Module Associated with Resistance to Anti-TNF Therapy
+
+Published online 2019 Aug 29. doi: 10.1016/j.cell.2019.08.008
+
+PMID: 31474370
+
+Data availability:
+GEO: GSE134809 for raw sequencing data. 
+
+Data obtained using samples from human patients. 
+
+Data processing done using Seurat which is different from that of the paper. 
