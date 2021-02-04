@@ -1,4 +1,7 @@
-Datasets for the Hyper-Inflammation manuscript: Data acquisition guidelines.
+Datasets and preprocessing to support the study:
+"Leveraging systems biology for predicting modulators of inflammation in patients with COVID-19"
+by S. Jung et al, Science Advances,7(6): eabe5735, 2021. DOI: 10.1126/sciadv.abe5735
+
 Consult individual README and process.R files
 
 AERD: Aspirin-Exacerbated Respiratory Disease
