@@ -1,0 +1,4 @@
+1. IPF: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132914
+2. PBMC COVID-19, Flu, control: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149689
+3. Allergen asthma lungs (Th+Treg only): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146170
+4.  

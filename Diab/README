@@ -1,0 +1,31 @@
+Diabetes
+Data: GSE131882
+Paper: PNAS, 116(39):19619-19625.
+
+"annotations.csv" was kindly provided by the Humphreys Lab.
+
+Individiual control samples were processed as usual in Seurat.
+See c1/c2/c3_Seurat1_readsINEX.rds
+
+Similarly, the diabetes samples.
+See d1/d2/d3_Seurat1_readsINEX.rds
+
+Then the integration step was performed using Seurat v3 tools. Importantly
+not all analyses can be replicated from the paper as they have used earlier
+versions of Seurat. Where possible, parameters retained. Where not possible
+Seurat suggestions used.
+
+In the integrated object, only features found in all data sets and in our
+databases were used (TF, LR, Signalling), since these are the features to keep.
+However, the anchoring process involved only 1000 features (see anchor.features=1000 for
+FindIntegrationAnchors function).
+
+http://humphreyslab.com/SingleCell/ has everything and more, but download/access is not
+granted.
+
+Since there is no significant batch effects between the samples (Fig.S2), we could try
+to avoid integration (simply, too big a dataset and Iris is still down:) ) by
+simply clustering individual sets and then merging/concatenating the ready datasets.
+
+Clusters will be assigned supervisedly (according to Fig.1B,D). This is mentioned
+in the paper.
