@@ -4,14 +4,20 @@ by S. Jung et al, Science Advances,7(6): eabe5735, 2021. DOI: 10.1126/sciadv.abe
 
 Consult individual README and process.R files
 
+AD: Atopic Dermatitis
 AERD: Aspirin-Exacerbated Respiratory Disease
+AS: Atherosclerosis
 CD: Crohn's disease
+Diab: Diabetes (kidney)
 DiabPanc: Diabetic Pancreas
+IBD: Inflammatory Bowel Disease
 IPF2: Idiopathic Pulmonary Fibrosis
 LivCir: Liver Cirrhosis
 LupNeph: Lupus Nephritis
 MacDeg: Macular Degeneration
-MS2: Multiple Sclerosis
+MS/MS2: Multiple Sclerosis
+OA: Osteoarthritis
+Paralysis: spinal cord injury
 PS: Psoriasis
 RAmmu: Rheumatoid Arthritis (mouse)
 UC: Ulcerative Colitis
